@@ -1,0 +1,22 @@
+{
+  "name": "typetasks(project)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "model.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MehulK-techie/TypeTasks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "types": "./model.d.ts",
+  "bugs": {
+    "url": "https://github.com/MehulK-techie/TypeTasks/issues"
+  },
+  "homepage": "https://github.com/MehulK-techie/TypeTasks#readme"
+}
